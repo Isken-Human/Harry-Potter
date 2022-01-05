@@ -1,0 +1,18 @@
+.App{
+    background-color: wheat;
+}
+
+
+.charList{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 50px auto;
+    padding:100px;
+}
+
+p, h1{
+    color:black;
+    font-family: serif;
+    font-size: 20px;
+    
+}

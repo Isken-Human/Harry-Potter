@@ -1,0 +1,12 @@
+.header{
+    background-image: url("./header.jpg");
+    font-size: 50px;
+    font-family: 'Harry Potter', sans-serif;
+    color: white;
+    height:30vh;
+    padding:0;
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
