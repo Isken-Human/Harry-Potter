@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Isken-Human/harry-potter.git",
+  "homepage": "https://Isken-Human.github.io/harry-potter",
   "name": "our-project",
   "version": "0.1.0",
   "private": true,
@@ -44,5 +44,4 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
-  
 }
