@@ -2,7 +2,15 @@
     background-color: wheat;
 }
 
+.database{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: serif;
+}
+.Images{
+    border-radius: 10px;
 
+}
 .charList{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -10,9 +18,23 @@
     padding:100px;
 }
 
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size:20px;
+    font-family:serif;
+}
+
 p, h1{
     color:black;
     font-family: serif;
     font-size: 20px;
-    
+}
+Button{
+    transition-duration:0.6s;
+    box-shadow: 10px 10px 10px #474747f8;
+    font-family:cursive;
 }
