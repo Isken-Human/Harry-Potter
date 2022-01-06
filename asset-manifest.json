@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Isken-Human/harry-potter.git/static/css/main.d872c633.css",
-    "main.js": "/Isken-Human/harry-potter.git/static/js/main.b38456d7.js",
+    "main.css": "/Isken-Human/harry-potter.git/static/css/main.78124941.css",
+    "main.js": "/Isken-Human/harry-potter.git/static/js/main.5c0c8b3b.js",
     "static/js/787.64cb2805.chunk.js": "/Isken-Human/harry-potter.git/static/js/787.64cb2805.chunk.js",
     "static/media/header.jpg": "/Isken-Human/harry-potter.git/static/media/header.8f9ab1b236db4398ae54.jpg",
     "index.html": "/Isken-Human/harry-potter.git/index.html",
-    "main.d872c633.css.map": "/Isken-Human/harry-potter.git/static/css/main.d872c633.css.map",
-    "main.b38456d7.js.map": "/Isken-Human/harry-potter.git/static/js/main.b38456d7.js.map",
+    "main.78124941.css.map": "/Isken-Human/harry-potter.git/static/css/main.78124941.css.map",
+    "main.5c0c8b3b.js.map": "/Isken-Human/harry-potter.git/static/js/main.5c0c8b3b.js.map",
     "787.64cb2805.chunk.js.map": "/Isken-Human/harry-potter.git/static/js/787.64cb2805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d872c633.css",
-    "static/js/main.b38456d7.js"
+    "static/css/main.78124941.css",
+    "static/js/main.5c0c8b3b.js"
   ]
 }
