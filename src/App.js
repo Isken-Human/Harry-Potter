@@ -152,18 +152,18 @@ function App() {
     <div className="App">
       <Header />
       <Stack className="btn-toolbar justify-content-md-center mt-3 p-3" direction="horizontal" gap={3}>
-        <Button size="lg" variant="dark" onClick={fetchAll}>All characters</Button>
-        <Button size="lg" variant="dark" onClick={fetchStudents}>Hogwarts students</Button>
-        <Button size="lg" variant="dark" onClick={fetchStaff}>Hogwarts staff</Button>
+        <Button href="#base" size="lg" variant="dark" onClick={fetchAll}>All characters</Button>
+        <Button href="#base" size="lg" variant="dark" onClick={fetchStudents}>Hogwarts students</Button>
+        <Button href="#base" size="lg" variant="dark" onClick={fetchStaff}>Hogwarts staff</Button>
         <Dropdown>
           <Dropdown.Toggle  size="lg"  id="dropdown-button-dark-example1" variant="dark">
             Characters in a certain house
           </Dropdown.Toggle>
           <Dropdown.Menu variant="dark" align={{ lg: 'end' }}>
-            <Dropdown.Item size="lg" variant="dark" onClick={fetchHouseGRY} active>Gryffindor</Dropdown.Item>
-            <Dropdown.Item size="lg" variant="dark" onClick={fetchHouseHUF}>Hufflepuff</Dropdown.Item>
-            <Dropdown.Item size="lg" variant="dark" onClick={fetchHouseRAV}>Ravenclaw</Dropdown.Item>
-            <Dropdown.Item size="lg" variant="dark" onClick={fetchHouseSLI}>Slytherin</Dropdown.Item>
+            <Dropdown.Item href="#base" size="lg" variant="dark" onClick={fetchHouseGRY} active>Gryffindor</Dropdown.Item>
+            <Dropdown.Item href="#base" size="lg" variant="dark" onClick={fetchHouseHUF}>Hufflepuff</Dropdown.Item>
+            <Dropdown.Item href="#base" size="lg" variant="dark" onClick={fetchHouseRAV}>Ravenclaw</Dropdown.Item>
+            <Dropdown.Item href="#base" size="lg" variant="dark" onClick={fetchHouseSLI}>Slytherin</Dropdown.Item>
           </Dropdown.Menu>
         </Dropdown>
       </Stack>
@@ -217,7 +217,7 @@ function App() {
         
       </div>
       
-      <div className = "charList row align-items-center justify-content-center container-fluid">
+      <div id="base" className = "charList row align-items-center justify-content-center container-fluid">
         {characters.map((char) => (
          <div className = "charItem text-center col-md-5 justify-content-center"> 
             <h1>{char.name}</h1>
