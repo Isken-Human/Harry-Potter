@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Isken-Human.github.io/harry-potter/static/css/main.a44a8a4c.css",
-    "main.js": "/Isken-Human.github.io/harry-potter/static/js/main.7511745b.js",
-    "static/js/787.64cb2805.chunk.js": "/Isken-Human.github.io/harry-potter/static/js/787.64cb2805.chunk.js",
-    "static/media/header.jpg": "/Isken-Human.github.io/harry-potter/static/media/header.8f9ab1b236db4398ae54.jpg",
-    "index.html": "/Isken-Human.github.io/harry-potter/index.html",
-    "main.a44a8a4c.css.map": "/Isken-Human.github.io/harry-potter/static/css/main.a44a8a4c.css.map",
-    "main.7511745b.js.map": "/Isken-Human.github.io/harry-potter/static/js/main.7511745b.js.map",
-    "787.64cb2805.chunk.js.map": "/Isken-Human.github.io/harry-potter/static/js/787.64cb2805.chunk.js.map"
+    "main.css": "/harry-potter/static/css/main.83c3a8dc.css",
+    "main.js": "/harry-potter/static/js/main.9cda7e29.js",
+    "static/js/787.64cb2805.chunk.js": "/harry-potter/static/js/787.64cb2805.chunk.js",
+    "static/media/header.jpg": "/harry-potter/static/media/header.8f9ab1b236db4398ae54.jpg",
+    "index.html": "/harry-potter/index.html",
+    "main.83c3a8dc.css.map": "/harry-potter/static/css/main.83c3a8dc.css.map",
+    "main.9cda7e29.js.map": "/harry-potter/static/js/main.9cda7e29.js.map",
+    "787.64cb2805.chunk.js.map": "/harry-potter/static/js/787.64cb2805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a44a8a4c.css",
-    "static/js/main.7511745b.js"
+    "static/css/main.83c3a8dc.css",
+    "static/js/main.9cda7e29.js"
   ]
 }
